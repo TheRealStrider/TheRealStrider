@@ -15,7 +15,7 @@ I use Duolingo for vocabulary and other websites for grammar.
 I find knowing and understanding different languages quite interesting and plan to be a polyglot in the future. My main focus is mastering German to at least have a B2 level of knowledge as I plan to move to Germany.
 
 ### Programming Languages
-![CSS]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
 ![HTML]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 
 ## Socials
