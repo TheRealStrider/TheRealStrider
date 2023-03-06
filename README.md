@@ -15,8 +15,7 @@ I use Duolingo for vocabulary and other websites for grammar.
 I find knowing and understanding different languages quite interesting and plan to be a polyglot in the future. My main focus is mastering German to at least have a B2 level of knowledge as I plan to move to Germany.
 
 ### Programming Languages
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
-![HTML]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge" />
 
 ## Socials
 Here are my social media accounts for you to follow or just look at:
