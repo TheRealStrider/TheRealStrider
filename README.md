@@ -1,13 +1,12 @@
 # Hello there 👋
 
-I'm a high school student learning many things to have a successful future as a network engineer.
+I'm an undergratuate learning many things to have a successful future as a network engineer.
 I'm currently learning Java, Python, C++ and Kotlin for programming languages while learning German and Norwegian for world languages.
 As of now, I'm creating a Minecraft mod called the Colored Wood Mod, well a remake of my original version anyways, and also maintaining a website where I publish all the projects I am making.
 
 ## Future
 As someone wanting to become a Network Engineer, I of course started to learn things in advance before going to college.
 I might learn C# to increase my knowledge, but also to have a higher chance of getting a job.
-I graduate high school in 2023, so I don't have much time.
 
 ## Language Learning
 ### World Languages
