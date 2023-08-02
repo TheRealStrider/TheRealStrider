@@ -17,8 +17,4 @@ Skills: HTML | CSS | Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealStrider)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealStrider&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheRealStrider)  
-
-![Profile views](https://gpvc.arturio.dev/TheRealStrider)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealStrider&show_icons=true)   
