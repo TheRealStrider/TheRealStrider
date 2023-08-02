@@ -1,23 +1,24 @@
-# Hello there 👋
+### Hi there 👋, I'm Strider...
+#### I'm just a college student learning how to code
+As someone who is wanting to become a network engineer, I knew I had to learn how to code. Luckily, the internet exists and there are free ways to learn.
 
-I'm an undergratuate learning many things to have a successful future as a network engineer.
-I'm currently learning Java, Python, C++ and Kotlin for programming languages while learning German and Norwegian for world languages.
-As of now, I'm creating a Minecraft mod called the Colored Wood Mod, well a remake of my original version anyways, and also maintaining a website where I publish all the projects I am making.
+Skills: HTML | CSS | Java
 
-## Future
-As someone wanting to become a Network Engineer, I of course started to learn things in advance before going to college.
-I might learn C# to increase my knowledge, but also to have a higher chance of getting a job.
+- 🌱 I’m currently learning Kotlin | Python | C++ | JS 
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: I always despised Java and yet now I love it  
 
-## Language Learning
-### World Languages
-I use Duolingo for vocabulary and other websites for grammar.
-I find knowing and understanding different languages quite interesting and plan to be a polyglot in the future. My main focus is mastering German to at least have a B2 level of knowledge as I plan to move to Germany.
 
-### Programming Languages
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge" />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheRealStrider)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/TheRealStrider)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.striderstudios.tech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/duolingo.svg' alt='duolingo' height='40'>](https://www.duolingo.com/profile/TRStrider)  
 
-## Socials
-Here are my social media accounts for you to follow or just look at:
-- Discord: Strider#8782
-- Twitter: @The_RealStrider
-- Reddit: TheRealStrider
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheRealStrider)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealStrider)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealStrider&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheRealStrider)  
+
+![Profile views](https://gpvc.arturio.dev/TheRealStrider)  
