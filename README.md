@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Strider...
 #### I'm just a college student learning how to code
-As someone who is wanting to become a network engineer, I knew I had to learn how to code. Luckily, the internet exists and there are free ways to learn.
+As someone who is wanting to become a network engineer/software developer, I knew I had to learn how to code. Luckily, the internet exists and there are free ways to learn.
 
-Skills: HTML | CSS | Java
+Skills: HTML | CSS | Java | Python
 
-- 🌱 I’m currently learning Kotlin | Python | C++ | JS 
+- 🌱 I’m currently learning C++ | Rust | C#
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I always despised Java and yet now I love it  
 
