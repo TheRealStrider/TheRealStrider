@@ -28,4 +28,4 @@ As someone who is wanting to become a network engineer/software developer, I kne
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealStrider)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealStrider&show_icons=true)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealStrider&show_icons=true&theme=transparent)   
